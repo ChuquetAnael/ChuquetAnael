@@ -1,4 +1,4 @@
-# Salut, je suis Anaël (@anael_chuquet) 👋
+# Salut, je suis Anaël (@anael_chuquet)
 
 **Étudiant en BUT Informatique | Développeur Logiciel & Web**
 
@@ -21,14 +21,6 @@ Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel pur 
 * 🐟 **Mon Ptit Carnet**
   * *Application web full-stack (PHP, MySQL, JS)* permettant de tenir un journal de pêche numérique détaillé. 
   * **Fonctionnalités :** Tableaux de bord analytiques, upload de photos avec recadrage via Cropper.js, et extraction automatique des métadonnées EXIF.
-
-* ♟️ **Othello**
-  * *Jeu de plateau développé en Java* avec interface graphique.
-  * **Concepts :** Utilisation de design patterns (Factory, MVC), développement dirigé par les tests, et gestion du build sous Maven.
-
-* 🌐 **e-Portfolio & Interfaces Web**
-  * Développement d'un site vitrine personnel en PHP/Bootstrap.
-  * Création d'interfaces interactives, notamment pour la consultation d'horaires de lignes de transports en commun.
 
 ### 📫 Comment me contacter
 * **LinkedIn :** www.linkedin.com/in/anaël-chuquet-a91838389(#)
